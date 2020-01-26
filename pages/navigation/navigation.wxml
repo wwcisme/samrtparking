@@ -1,0 +1,4 @@
+<button bindtap='houduanButton1'>点击发起请求</button>
+<view wx:for="{{list}}">
+    姓名：{{item}}
+  </view>
